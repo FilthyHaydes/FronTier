@@ -1,0 +1,23 @@
+.shroom1{
+  height: 350px;
+  width: 350px;
+  border-radius: 0%;
+  border-width: medium;
+  border: 10px solid cyan;
+}
+.shroom2{
+  height: 300px;
+  width: 300px;
+  border: 10px solid navy;
+}
+.shroom3{
+  height: 300px;
+  width: 300px;
+  border-radius: 15%
+}
+body{
+  background-color: grey;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}

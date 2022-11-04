@@ -1,0 +1,40 @@
+body{
+  font-family: 'Roboto', sans-serif;
+
+}
+h1{
+  font-size: 50px;
+  font-weight: 900;
+}
+.btn{
+  background-color: red;
+  color: white;
+  border: none;
+  /* width:  90px; */
+  /* height: 40px; */
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.prjt{
+  color: black;
+
+}
+.ninet{
+  font-size: 30px;
+  font-weight: 600px;
+}
+.portfolio-statisctics{
+  background-color: black;
+  color: white;
+}
+.portfolio-know-more{
+  background-color: yellow;
+  color: black;
+  border: none;
+  width:  90px;
+  height: 40px;
+}
+.kcat{
+  width: 200px;
+  height: 200px;
+}

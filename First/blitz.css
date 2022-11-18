@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+}
+body{
+  display: flex;
+}
+
+.nav{
+  width: 25%;
+  height: 100vh;
+  background-color: white;
+}
+.main{
+  width: 50%;
+  height: 100vh;
+    background-color: blue;
+}
+.stat{
+  width: 25%;
+  height: 100vh;
+    background-color: white;
+}
+.nava{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.nava img{
+  width: 48px;
+  height: 48px;
+
+}

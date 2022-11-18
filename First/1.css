@@ -1,0 +1,16 @@
+.main {
+           display: flex;
+       }
+       .child {
+           flex:1;
+           border:1px solid tomato;
+       }
+       .content {
+           display: flex;
+           justify-content: flex-start;
+           align-items: center;
+           flex-flow: column nowrap;
+       }
+       .content-child{
+           padding: 5px;
+       }

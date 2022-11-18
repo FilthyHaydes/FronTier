@@ -1,0 +1,55 @@
+body>div {
+  background: #aaa;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body>div {
+  background: #aaa;
+  display: flex;
+  flex-wrap: wrap;
+}
+body>div>div {
+  flex-grow: 1;
+  width: 33%;
+  height: 100px;
+}
+body>div>div>div {
+  flex-grow: 1;
+  width: 33%;
+  height: 100px;
+}
+
+.flex1 {
+  background-color: DodgerBlue;
+
+}
+
+.flex2 {
+  background-color: DodgerBlue;
+
+}
+
+.flex3 {
+  background-color: DodgerBlue;
+
+}
+
+body>.flex1 > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+body>.flex2 > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+body>.flex3 > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}

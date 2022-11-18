@@ -1,0 +1,32 @@
+body{
+  margin: 60px;
+  background-color: darkgrey;
+}
+div{
+  background-color: gray;
+}
+.container-fluid{
+  background-color:grey;
+}
+.header{
+  text-align: center;
+}
+.imagetext{
+  background-color: white ;
+  font-weight: bold;
+  font-size: 24;
+}
+.mckena{
+  width: 670px;
+  height: 450px;
+}
+.main{
+  max-width: 660px;
+    margin: 0 auto;
+    background-color: dimgrey;
+    margin-bottom: 20px;
+}
+li{
+  font-weight: bold;
+  color: black;
+}

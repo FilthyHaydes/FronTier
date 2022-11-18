@@ -1,0 +1,37 @@
+.blobta{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  transition: transform 1s;
+}
+.blobta:hover {
+  transform: scale(1.5);
+}
+.yipee{
+  height: 200px;
+  width:  200px;
+  border-radius: 50%;
+  transition: transform 1s;
+}
+.yipee:hover {
+  transform: scale(1.5);
+}
+.narc{
+  height: 200px;
+  width:  200px;
+  border-radius: 50%;
+  transition: transform 1s;
+}
+.narc:hover {
+  transform: scale(1.5);
+}
+body{
+  background-color: cyan;
+  display: flex;
+  justify-content: space-between ;
+  align-items:center;
+  height: 100vh;
+}
+h1{
+    padding-left: 100px;
+}
